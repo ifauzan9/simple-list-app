@@ -1,0 +1,8 @@
+.itemWrap{    
+    overflow: hidden;    
+    border-radius: 8px;
+    box-shadow: var(--main-box-shadow);
+    background-color: var(--secondary-background-color);    
+    overflow-y: scroll;    
+    height: calc(100vh - 160px);    
+}

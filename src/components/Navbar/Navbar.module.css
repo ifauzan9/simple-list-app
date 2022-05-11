@@ -1,0 +1,22 @@
+.navbarWrap{
+    background-color: var(--main-background-color);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 12px 14px;
+}
+
+.navbarIcon{
+    width: 40px;
+    display: flex;
+    margin-right: 4px;
+}
+
+.navbarTitle{
+    font-size: 24px;
+    display: flex;
+    align-items: center;    
+    text-transform: uppercase;
+    font-weight: bold;
+    color: var(--secondary-font-color);
+}

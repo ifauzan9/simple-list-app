@@ -1,0 +1,8 @@
+.container{
+    background-color: var(--secondary-background-color);
+    /* background-color: rgba(128, 128, 128, 0.37); */
+    max-width: 480px;
+    margin: 0 auto;
+    height: calc(100vh - 64px);
+    padding: 14px;    
+}
